@@ -6,7 +6,6 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.noteapps.databinding.ActivityAddEditNoteBinding
-import com.example.noteapps.databinding.ActivityMainBinding
 import com.example.noteapps.db.Notes
 import com.example.noteapps.mvvm.NoteViewModel
 import java.text.SimpleDateFormat
